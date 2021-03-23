@@ -1,0 +1,11 @@
+*.pyc
+*.pyo
+.DS_Store
+._*
+.idea
+db/static
+!db/mal2/static
+docs/_build
+node_modules
+package-lock.json
+secret_key.txt
